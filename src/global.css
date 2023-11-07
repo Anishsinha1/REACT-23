@@ -1,0 +1,33 @@
+.section{
+    border:5px solid yellow;
+    height:500px;
+    width:500px;
+     margin-left:490px;
+     margin-top:100px ;
+}
+.lo{
+    text-align: center;
+    color:yellow;
+}
+label{
+    margin-left:80px;
+    font-weight:bold ;
+    color:yellow;
+    font-size:30px ;
+}
+input[type="text"]{
+    margin-left:80px ;
+    height:30px;
+    width:360px;
+    margin-top:1px ;
+    border:5px solid red;
+}
+
+.btn{
+    margin-top:22px ;
+    height:50px;
+    margin-left:80px ;
+    width:360px;
+     border:5px solid red;
+
+}
